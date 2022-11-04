@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView_Review_AM</string>
+    <string-array name="rzeczy">
+        <item>Samochod</item>
+        <item>Komputer</item>
+        <item>Konsola</item>
+        <item>Monitor</item>
+    </string-array>
+</resources>
